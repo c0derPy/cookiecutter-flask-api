@@ -5,7 +5,7 @@ Powered by [Cookiecutter](https://cookiecutter.readthedocs.io/), Cookiecutter Fl
 ## Usage
 
 ### Install
-> pip install cookiecutter
+> $ pip install cookiecutter
 
 ### Run
-> cookiecutter https://github.com/c0derPy/cookiecutter-flask-api
+> $ cookiecutter https://github.com/c0derPy/cookiecutter-flask-api
