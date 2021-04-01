@@ -1,0 +1,4 @@
+-r base.txt
+
+requests==2.25.1
+httpie==2.4.0
